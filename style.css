@@ -1,0 +1,201 @@
+
+
+
+
+
+/*menu*/
+.header {
+    background-color: #A5B99C; /* Os cÃ³digos de cor hexadecimal devem ser antecedidos de um cardinal */
+}
+
+.menu{
+    background-color: #D0E8C5; /* Os cÃ³digos de cor hexadecimal devem ser antecedidos de um cardinal */
+}
+
+.logo {
+    margin-top: 10px; /* Aplica margem superior no logo para que se afaste dos limites superiores do cabeÃ§alho */
+}
+
+
+
+
+
+
+.header-cinza{
+    background-color: #A5B99C; /* para aplicar cor de fundo */
+    text-align: center; /* para centrar a imagem */
+    padding: 50px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.nav-link {
+    font-weight: bold; 
+  
+    
+}
+
+.funcionalidades {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+/* Estilos para o rodapé  */
+
+/* para todo o rodapé */
+.pre-footer {
+    margin-top: 50px; /* aplica margem ao topo no rodapé para que se separe da área "não esqueçer"*/
+    background-color: #A5B99C;  /* aplica cor de fundo */
+    padding-top: 20px; /* aplica margem superior interna para que os elementos contidos no rodapé não fiquem próximos do limite superior */
+   
+    color: #FFFFFF; /* todo o texto ficará a branco */
+}
+
+ /* todos os links (a) dentro da classe "pre-footer"*/
+.pre-footer a {
+    color: #FFFFFF;   /* cor dos links */
+    text-decoration: none; /* retira o sublinhado dos links */
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ /* sempre que passar o cursor num link */
+.pre-footer a:hover {
+    color: #000000; /* muda a cor para preto */
+}
+
+ /* todas as listas não ordenadas dentro o pre-footer */
+.pre-footer ul {
+    list-style: none; 
+    padding: 0px;  
+    margin-left: 20px;
+}
+
+ 
+.pre-footer .contactos li {
+    display: inline;  
+    text-transform: uppercase; 
+}
+
+
+.pre-footer .social {
+    font-size: 20px;
+}
+
+ 
+.footer {
+    text-align: center; /* coloca o texto centrado */
+}
+
+
+
+
+
+
+.cao1 {
+   
+    margin-left: 10%;
+   
+    margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+
+.titulo2 { 
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.tudo2 {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    margin-left: 10%;
+}
+
+.h1{
+    text-align: center;
+}
+
+.cao2{
+    text-align: center;
+    margin-left: 10%;
+    margin-bottom: 30px;
+    margin-top: 5%;
+}
+
+
+.cao3{
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+.botao1 {
+   
+   text-align: center;
+    
+}
+
+.titulo3 {
+    margin-top: 20px;
+    font-size: 30px;
+    margin-bottom: 30px;
+   
+}
+
+.texto3 {
+    margin-top: 350px;
+    
+    
+    
+}
+
+.cao11 {
+    
+   margin-left: 15%;
+    
+}
+
+.texto2 {
+
+    text-align: justify;
+    
+}
+
+.texto33 {
+
+    text-align: justify;
+    margin-left: 10%;
+    
+}
+
+.linha1 {
+
+    margin-top: 0%;
+    margin-bottom: 10%;
+    
+}
+
+.linha2 {
+
+
+    margin-bottom: 10%;
+    
+}
+
+.h1 {
+
+    margin-top:  5%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}

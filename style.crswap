@@ -1,0 +1,501 @@
+/*homepage*/
+
+.titulo1 {
+    margin-top: 150px;
+    font-size: 30px;
+}
+.titulo2 { 
+    margin-top: 150px;
+    font-size: 30px;
+}
+.header {
+    background-color: #D9D9D9; 
+    padding-bottom:10px;
+}
+.titulo9 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 30px
+
+}
+.titulo10 {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-size: 30px
+}
+
+.calcas1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.armario1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.tudo1 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.tudo2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.tudo3 {
+    margin-top: 30px;
+
+}
+
+.texto1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center
+    
+}
+
+.texto2 {
+
+    text-align: center
+    
+}
+
+.botao {
+   
+   margin-left: 0%;
+    margin-top: 0%;
+    
+}
+
+
+
+
+
+
+.botao1 {
+   
+    margin-left: 10%;
+    margin-top: 10%;
+    
+}
+
+.botao2{
+    margin-left: 40%;
+    margin-top: 10%;
+   
+}
+
+.botao3{
+    margin-left: 60%;
+    margin-top: 10%;
+    
+   
+}
+
+.botao4{
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+
+
+
+
+
+
+
+/*dicas*/
+.titulo3 {
+    margin-top: 250px;
+    font-size: 30px;
+   
+}
+
+
+
+
+.titulo4 {
+    margin-top: 200px;
+    font-size: 30px;
+    margin-right: 50%;
+    
+}
+
+.frase1{
+    margin-top: 400px;
+    text-align: center;
+    
+}
+
+
+
+
+.titulo5 {
+    margin-top: 250px;
+    font-size: 30px;
+    
+}
+
+
+.titulo6 {
+    margin-top: 250px;
+    font-size: 30px;
+    margin-right: 50%;
+    
+
+}
+.frase2{
+    margin-top: 400px;
+    text-align: center;
+    
+}
+
+
+
+
+.titulo7 {
+    margin-top: 250px;
+    font-size: 30px;
+    
+}
+
+.titulo8 {
+    margin-top: 300px;
+    font-size: 30px;
+    
+}
+.frase3{
+    margin-top: 400px;
+    text-align: center;
+    
+    
+}
+
+
+
+
+/*menu*/
+.header {
+    background-color: #A5B99C; /* Os cÃ³digos de cor hexadecimal devem ser antecedidos de um cardinal */
+}
+
+.menu{
+    background-color: #D0E8C5; /* Os cÃ³digos de cor hexadecimal devem ser antecedidos de um cardinal */
+}
+
+.logo {
+    margin-top: 10px; /* Aplica margem superior no logo para que se afaste dos limites superiores do cabeÃ§alho */
+}
+
+
+/*tendencias*/
+.texto3 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center
+    
+    
+}
+
+.roupa1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30;
+ 
+}
+
+.camisola1 {
+    
+    margin-left: 0%;
+ 
+}
+
+.vestido1 {
+   
+    margin-left: 10%;
+    margin-right: 10%;
+ 
+}
+
+.casaco1 {
+    
+    margin-left: 0%;
+ 
+}
+
+.ganga1 {
+    
+    margin-right: 0%;
+ 
+}
+
+.sweat1 {
+    margin-left: 10%;
+    margin-right: 10%;
+   
+}
+
+.corset1 {
+    
+    margin-right: 0%;
+ 
+}
+
+.texto2 {
+
+    text-align: center
+    
+}
+
+.texto7 {
+    margin-left: 30%;
+    margin-right: 10%;
+    text-align: center
+    
+}
+
+.acessorios1 {
+    margin-top: 40px;
+    font-size: 30;
+}
+
+
+.mala1 {
+    
+    margin-left: 0%;
+ 
+}
+
+.oculos1 {
+   
+    margin-left: 10%;
+    margin-right: 10%;
+ 
+}
+
+.flor1 {
+    
+    margin-left: 0%;
+ 
+}
+
+.pulsei1 {
+    
+    margin-left: 0%;
+ 
+}
+
+.brincos1 {
+   
+    margin-left: 10%;
+    margin-right: 10%;
+ 
+}
+
+.corrente11 {
+    
+    margin-right: 0%;
+ 
+}
+
+.calcado1 {
+    margin-top: 40px;
+    font-size: 30;
+}
+
+.loafers1 {
+    
+    margin-left: 0%;
+ 
+}
+
+.uggs1 {
+   
+    margin-left: 10%;
+    margin-right: 10%;
+ 
+}
+
+.sapato1 {
+    
+    margin-right: 0%;
+ 
+}
+
+.texanas1 {
+    
+    margin-left: 0%;
+ 
+}
+
+.botas {
+   
+    margin-left: 10%;
+    margin-right: 10%;
+ 
+}
+
+.verme {
+    
+    margin-right: 0%;
+ 
+}
+
+.cosmetica1 {
+    margin-top: 40px;
+    margin-bottom: 40PX;
+    font-size: 30;
+}
+
+.ilu1 {
+    
+    margin-left: 0%;
+    margin-bottom: 30px;
+ 
+}
+
+.chanel1 {
+   
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+ 
+}
+
+.base1 {
+    
+    margin-right: 0%;
+    margin-bottom: 30px;
+ 
+}
+
+.bronzer1 {
+    
+    margin-left: 0%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+.ysl1 {
+   
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+.paleta1 {
+    
+    margin-right: 0%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+
+
+/* classe para o fundo do cabeçalho cinza na HP*/
+.header-cinza{
+    background-color: #A5B99C; /* para aplicar cor de fundo */
+    text-align: center; /* para centrar a imagem */
+    padding: 50px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* aplicar estilos aos itens do menu */
+.nav-link {
+    font-weight: bold; /* tipografia a bold */
+  
+    
+}
+
+.funcionalidades {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+/* Estilos para o rodapé  */
+
+/* para todo o rodapé */
+.pre-footer {
+    margin-top: 50px; /* aplica margem ao topo no rodapé para que se separe da área "não esqueçer"*/
+    background-color: #A5B99C;  /* aplica cor de fundo */
+    padding-top: 20px; /* aplica margem superior interna para que os elementos contidos no rodapé não fiquem próximos do limite superior */
+    padding-bottom: 20px; /* iguala ao anterior, mas para a margem interna inferior */
+    color: #FFFFFF; /* todo o texto ficará a branco */
+}
+
+ /* todos os links (a) dentro da classe "pre-footer"*/
+.pre-footer a {
+    color: #FFFFFF;   /* cor dos links */
+    text-decoration: none; /* retira o sublinhado dos links */
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ /* sempre que passar o cursor num link */
+.pre-footer a:hover {
+    color: #000000; /* muda a cor para preto */
+}
+
+ /* todas as listas não ordenadas dentro o pre-footer */
+.pre-footer ul {
+    list-style: none; /* retira os bullets, ou seja, os estilos por omissão das listas */
+    padding: 0px;  
+    margin-left: 20px;
+}
+
+ /* todas as listas que estão dentro da classe "contactos" e que estão contidas na classe "pre-footer" */
+.pre-footer .contactos li {
+    display: inline;  /* coloca a lista em linha */
+    text-transform: uppercase; /* transforna o texto para maiúsculas */
+}
+
+ /* todas as classes "social" que estão contidas em classes "pre.footer" */
+.pre-footer .social {
+    font-size: 20px;
+}
+
+ /* criada esta classe para manipular o copyright no final */
+.footer {
+    text-align: center; /* coloca o texto centrado */
+}
+
+
+
+
+
+
+.cao1 {
+   
+    margin-left: 10%;
+   
+    margin-top: 30px;
+    margin-bottom: 30px;
+ 
+}
+
+
+.titulo2 { 
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.tudo2 {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    margin-left: 50%;
+}
+
